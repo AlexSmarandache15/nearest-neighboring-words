@@ -1,0 +1,11 @@
+9
+text1 6 18 5 2
+text2 0 15 5 2
+text3 6 15 5 2
+text4 0 12 5 2
+text5 6 12 4 2
+text6 12 12 5 2
+text7 6 9 5 2
+text8 0 6 4 2
+text9 6 3 5 2
+4

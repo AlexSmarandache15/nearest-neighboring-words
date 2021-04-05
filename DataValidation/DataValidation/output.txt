@@ -1,0 +1,4 @@
+top : text3
+left : text4
+bottom : text7
+right : text6
